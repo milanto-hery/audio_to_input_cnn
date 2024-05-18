@@ -5,5 +5,5 @@ The objective is to be able to evaluate how well a classifier along the compress
 The data is always saved as a waveform (.wav). You can use any tools to convert the data but here we are created our own converter to facilitate the transformation of ultiples files in one click. This app is created with PyQt5.
 
 <p align="center">
-![guiiapp](https://github.com/milanto-hery/audio_to_input_cnn/assets/78157308/42092eae-7742-461f-920a-7c67b066437d = 100x100)
+![guiiapp](https://github.com/milanto-hery/audio_to_input_cnn/assets/78157308/42092eae-7742-461f-920a-7c67b066437d)
 </p>

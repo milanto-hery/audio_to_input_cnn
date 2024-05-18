@@ -1,0 +1,50 @@
+{
+  "thyolo_alethe": {
+
+    "segment_duration" : 1,
+    "positive_class" : "[\"thyolo-alethe\"]",
+    "negative_class" : "[\"noise\"]",
+    "file_type" : "svl",
+    "audio_mp3" : ".mp3",
+    "audio_flac" : ".flac",
+    "audio_ogg" : ".ogg",
+    "audio_aac" : ".aac",
+    "n_fft" : 1024,
+    "hop_length" : 320,
+    "n_mels" : 128 ,
+    "f_min" : 800,
+    "f_max" : 4000
+  },
+  "hainan_gibbon": {
+
+    "segment_duration" : 4,
+    "positive_class" : "[\"gibbon\"]" ,
+    "negative_class" : "[\"no-gibbon\"]" ,
+    "file_type" : "svl",
+    "audio_mp3" : ".mp3",
+    "audio_flac" : ".flac",
+    "audio_ogg" : ".ogg",
+    "audio_aac" : ".aac",
+    "n_fft" : 1024,
+    "hop_length" : 1024,
+    "n_mels" : 128 ,
+    "f_min" : 2100,
+    "f_max" : 9000
+  },
+  "another_species": {
+
+    "segment_duration" : 0,
+    "positive_class" : "[\"presence\"]" ,
+    "negative_class" : "[\"noise\"]" ,
+    "file_type" : "svl",
+    "audio_extension" : ".WAV",
+    "n_fft" : 1024,
+    "hop_length" : 320,
+    "n_mels" : 128 ,
+    "f_min" : 800,
+    "f_max" : 4000,
+    "solver_lasso": "lasso",
+    "solver_omp": "omp",
+    "solver_cvx": "cvx"
+  }
+}

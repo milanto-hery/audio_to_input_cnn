@@ -1,0 +1,12 @@
+In_Data/
+├── WAV_MP3/
+│   ├── Audio_8
+│   ├── Audio_16
+│   └── Audio_32
+├── WAV_FLAC/
+│   
+│   |── FLAC_0/
+│   ├── FLAC_2/
+│   └── FLAC_6/
+│   
+└── WAV_OGG

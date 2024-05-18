@@ -1,0 +1,7 @@
+List of all annotated (.svl)
+Exemples for Gibbon:
+
+HGSM3AB_0+1_20160303_060100.svl
+HGSM3AB_0+1_20160305_055900.svl
+HGSM3AB_0+1_20160317_055000.svl
+

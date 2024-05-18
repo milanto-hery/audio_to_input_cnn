@@ -1,0 +1,6 @@
+List of file names without extension
+Example:
+
+HGSM3AB_0+1_20160303_060100
+HGSM3AB_0+1_20160305_055900
+HGSM3AB_0+1_20160317_055000

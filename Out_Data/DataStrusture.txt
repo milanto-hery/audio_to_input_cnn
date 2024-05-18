@@ -1,0 +1,18 @@
+Out_Data/
+├── MP3/
+│   ├── X_mp3.pkl # array audio
+│   ├── X_raw.pkl # array spectrograms
+│   └── Y_S.pkl
+├── FLAC/ 
+│   ├── X_flac.pkl
+│   ├── X_raw.pkl
+│   └── Y_S.pkl
+|
+├── OGG/ 
+│   ├── X_ogg.pkl
+│   ├── X_raw.pkl
+│   └── Y_S.pkl
+├── AAC/ 
+│   ├── X_aac.pkl
+│   ├── X_raw.pkl
+│   └── Y_S.pkl

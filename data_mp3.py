@@ -12,11 +12,7 @@ def load_json_config(file_name):
     except json.JSONDecodeError as e:
         print(f"Error decoding JSON file '{file_name}': {e}")
         return None
-
-# Set the default working directory
-my_dir = os.path.dirname(os.path.abspath(__file__))
-os.chdir(my_dir)
-
+        
 def main():
 # Load configuration from JSON
     config = load_json_config('settings.json')
